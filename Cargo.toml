@@ -1,0 +1,10 @@
+[package]
+name = "turath-rs-i3rab-dependency-parse"
+version = "1.0.0"
+edition = "2021"
+description = "Classical Arabic Syntactic I'rab Case-Ending & Dependency Parser"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "turath_rs_i3rab_dependency_parse"
+path = "main.rs"
